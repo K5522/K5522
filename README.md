@@ -29,8 +29,8 @@ Here are some of my notable projects:
 
 ## Get in Touch
 
-- **Email:** [your-email@example.com](mailto:djdf37rrk@duck.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://in.linkedin.com/in/imluckey)
+- **Email:** [Contact](mailto:djdf37rrk@duck.com)
+- **LinkedIn:** [LinkedIn Profile](https://in.linkedin.com/in/imluckey)
 
 Feel free to connect with me or check out my repositories. I'm always open to collaboration and new opportunities!
 
