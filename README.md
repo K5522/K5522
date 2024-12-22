@@ -51,7 +51,7 @@ Feel free to reach out if you want to collaborate on a project or just say hi!
 - **Twitter:** [@K5522](https://twitter.com/K5522)
 
 ## 🎉 Fun Facts
-- I love I am passionate about **solving real-world problems through coding**. I enjoy using my programming skills to tackle practical challenges, whether it's developing software, automating processes, or creating algorithms that improve efficiency. My goal is to make a positive impact by turning complex issues into simple, effective solutions using code..
+- I am passionate about **solving real-world problems through coding**. I enjoy using my programming skills to tackle practical challenges, whether it's developing software, automating processes, or creating algorithms that improve efficiency. My goal is to make a positive impact by turning complex issues into simple, effective solutions using code..
 - I'm currently learning [New Skills or Technologies].
 
 ---
