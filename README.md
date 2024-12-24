@@ -37,7 +37,7 @@ I'm a passionate **Software Developer** with a love for **open-source projects**
 
 ### [Project 1: Awesome Project](https://github.com/K5522/CC_Validator)
 ![Awesome Project](https://img.shields.io/github/stars/K5522/awesome-project?style=social)
-A brief description of Project 1, highlighting key features and technologies used.
+Welcome to the Credit Card Validation Bot! A cutting-edge Telegram bot that integrates with Stripe and Braintree to validate credit card details with precision and security.
 
 ### [Project 2: Cool App](https://github.com/K5522/cool-app)
 ![Cool App](https://img.shields.io/github/stars/K5522/cool-app?style=social)
@@ -52,7 +52,7 @@ Feel free to reach out if you want to collaborate on a project or just say hi!
 
 ## 🎉 Fun Facts
 - I am passionate about **solving real-world problems through coding**. I enjoy using my programming skills to tackle practical challenges, whether it's developing software, automating processes, or creating algorithms that improve efficiency. My goal is to make a positive impact by turning complex issues into simple, effective solutions using code..
-- I'm currently learning [New Skills or Technologies].
+- I'm currently learning ML & AI.
 
 ---
 
