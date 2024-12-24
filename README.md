@@ -36,7 +36,7 @@ I'm a passionate **Software Developer** with a love for **open-source projects**
 ## 🌟 Featured Projects
 
 ### [Project 1: Awesome Project](https://github.com/K5522/awesome-project)
-![Awesome Project](https://github.com/K5522/CC_Validator)
+![Awesome Project]((https://img.shields.io/github/stars/K5522/awesome-project?style=social)
 A brief description of Project 1, highlighting key features and technologies used.
 
 ### [Project 2: Cool App](https://github.com/K5522/cool-app)
