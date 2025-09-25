@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a passionate **Software Developer** with a love for **open-source projects** and **cutting-edge technologies**. I thrive on solving complex problems and continuously learning new skills.
 
-- 🌐 **Website:** [K5522.dev](https://K5522.dev)
+- 🌐 **Website:** [The Fortune Post](https://thefortunepost.com)
 - 💼 **LinkedIn:** [K5522](https://www.linkedin.com/in/imluckey)
 - 🐦 **Twitter:** [@K5522](https://twitter.com/K5522)
 
